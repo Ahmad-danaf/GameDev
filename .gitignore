@@ -1,0 +1,20 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+
+# Environment directories
+venv/
+env/
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyo
+*.pyd
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
